@@ -1,0 +1,8 @@
+C:\Users\kerem\source\repos\csharp1\06_arrays\bin\Debug\06_arrays.exe.config
+C:\Users\kerem\source\repos\csharp1\06_arrays\bin\Debug\06_arrays.exe
+C:\Users\kerem\source\repos\csharp1\06_arrays\bin\Debug\06_arrays.pdb
+C:\Users\kerem\source\repos\csharp1\06_arrays\obj\Debug\06_arrays.csproj.AssemblyReference.cache
+C:\Users\kerem\source\repos\csharp1\06_arrays\obj\Debug\06_arrays.csproj.CoreCompileInputs.cache
+C:\Users\kerem\source\repos\csharp1\06_arrays\obj\Debug\06_arrays.exe
+C:\Users\kerem\source\repos\csharp1\06_arrays\obj\Debug\06_arrays.pdb
+C:\Users\kerem\source\repos\csharp1\06_arrays\obj\Debug\06_arrays.exe.config
