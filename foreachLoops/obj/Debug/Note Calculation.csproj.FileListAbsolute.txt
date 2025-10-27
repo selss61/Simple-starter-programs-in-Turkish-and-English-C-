@@ -1,8 +1,0 @@
-C:\Users\kerem\source\repos\csharp1\foreachLoops\bin\Debug\foreachLoops.exe.config
-C:\Users\kerem\source\repos\csharp1\foreachLoops\bin\Debug\foreachLoops.exe
-C:\Users\kerem\source\repos\csharp1\foreachLoops\bin\Debug\foreachLoops.pdb
-C:\Users\kerem\source\repos\csharp1\foreachLoops\obj\Debug\Note Calculation.csproj.AssemblyReference.cache
-C:\Users\kerem\source\repos\csharp1\foreachLoops\obj\Debug\foreachLoops.exe.config
-C:\Users\kerem\source\repos\csharp1\foreachLoops\obj\Debug\Note Calculation.csproj.CoreCompileInputs.cache
-C:\Users\kerem\source\repos\csharp1\foreachLoops\obj\Debug\foreachLoops.exe
-C:\Users\kerem\source\repos\csharp1\foreachLoops\obj\Debug\foreachLoops.pdb
